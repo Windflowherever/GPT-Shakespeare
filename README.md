@@ -258,6 +258,16 @@ Sometimes, Linda has a day off doing nothing at all. She curls up on the couch w
 
 
 
+## Output Format Rule：
+
+Write in one natural paragraph, not list form.
+
+Include 3 clear outward A-sides (traits/behaviors) with vivid examples woven in。
+
+Include 1 hidden B-side (emotional/spiritual contradiction) — not trauma, but a deeper truth。
+
+End with 1 poetic line the character says，must match tone。
+
 
 ## 📥 Your task:
 
