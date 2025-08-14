@@ -256,6 +256,50 @@ Sometimes, Linda has a day off doing nothing at all. She curls up on the couch w
 "Sometimes, I drop the list and just let the day be." says Linda.
 
 
+ 
+
+12\.
+
+Adarlino talks calm and slow, listening with the kind of patience that makes people feel their words have weight. He likes to make new friends, and is often the one to gather a group for an outing, lifting the mood until the air feels easy. He isn't the loudest joke-maker, but when he does speak, it's with a quick wit that lands and lingers. Girls like being around him, and he likes their company too; sometimes he says yes before he knows what he feels, and it leaves him unsure how to handle the space between friendship and something more.
+
+"I don't really get her, but when she comes this way, I want to be closer." Says Adarlino.
+
+
+
+13\.
+
+Beleza moves like the tide - glowing skin catching the sunlight, dresses cut to let the breeze flirt with her curves. To travelers from afar she shows no distance, greeting them without flinch or measure, her gaze steady and her smile is warm. Whether it's a fish just pulled from the net, fabric woven by hand, or the way a man says good morning - she instantly knows what's fresh, genuine, and worth her attention. This keeps her from being fooled by the surface shine. Beleza is a beautiful rose growing in salt air. She knows she is beautiful yet never acts as if she is above anyone. To her, beauty is a stroke of luck — and luck should be met with greater kindness.
+
+"Eat the fish while it's fresh, dance while the music plays." says Beleza.
+
+
+
+14\.
+
+Catia wears color like a flag, gold hoops swinging, her shirt loose enough to move but cut to remind you she's there. Her kindness is steady but never desperate; she will share the shade of her umbrella in the midday sun and then walk away without asking for thanks. If she notices something — a dress in a shop, a stranger's gaze — she looks straight at it, as if acknowledging it makes it real. Catia lives easily in the heat of her own choices, unafraid to step outside the lines drawn by tradition and rule, even when the air around her holds its breath.
+
+"If you can't meet me eye to eye, you'll never catch me," Catia says.
+
+
+
+15\.
+
+Zehira works in the port's old record house, where news arrives by ship and leaves by printed newspaper. She copies the words cleanly, sometimes adding a small drawing - a curling wave, a spring of bougainvillea - so each page feels touched by a human hand. When reading letters from abroad, she notices the flourishes people use — the extra loops in someone's handwriting, the dramatic choice of words — and smiles to herself.
+Sometimes Zehira wonders if the way she folds beauty into a page will ever truly be seen. The crowd loves the "Breaking News" and the loud pictures, but she wants each issue to carry something poetic, something that leaves the reader lighter than before.
+
+"You're doing good!" Say Ilsa.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Output Format Rule：
