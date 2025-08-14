@@ -144,31 +144,19 @@ Write a short character vignette based on this structure:
 1\.
 
 Dino is a poet in Cape Verde. He lives life in no rush. He pauses for flowers, writes odes to sunsets. He can pluck a spontaneous melody on his cavaquinho and turn it into a rhymed verse within seconds, like he’s having a conversation with the universe. He weaves the world with language and disarms offenses with humor. Dino enjoys his life, yet he is lonely. His loneliness stems from his gift – he sees beauty where others don’t, and no one truly understands that kind of sensitivity. So, he hides it in melodies and secretly hopes someone can hear the meaning one day.
-
- 
-
 "Ever notice how the wind drifts to sea at dusk? Like it’s being called." Dino says.
 
-\
-\
+
 2\.
 
 The name Lina means ‘tender’ in **Cape Verde**. Lina is innocent and dreamy, she runs barefoot through wild fields, pockets full of tiny stones, eyes full of questions. She is also free-spirited - may kiss you without warning, then burst into loud laughter. At her core, she is spiritual, can talk to animals, and listen to dreams like news from the other world. Once, she believed a boy who said he’d return after the rains. She buried a tiny shell with his name at the foot of the fig tree, because that’s what the old women said made love grow back.
-
- 
-
  “Last night I dreamed of a bird with a green tail. That means someone’s missing me.” Lina says.
 
- 
 
 3\.
 
 The girl’s name “Zelina” means “to guard” in Cape Verde. Zelina guards herself, when her roof leaked, her neighbors suggested she call a man who knew “fixed things”. But she borrowed a ladder and patched it herself. She is brave, once hiked alone into the inland hills of Santo Antão just to watch the sun rise behind the volcano ridge. Someone said Zelina should “be like a girl” so guys would like her. But she just smiled and kept being herself – dusty boots, oversized jeans, and hair pulled back like always.
-
 Sometimes she is stubborn, even when there’s a shortcut through the market, she sticks to the rocky path by the cliffs—because she doesn’t like being told where to go.
-
- 
-
 “I take my own bag, walk my own road, and fix what needs fixing.“ Says Zelina
 
 \
@@ -284,15 +272,69 @@ Catia wears color like a flag, gold hoops swinging, her shirt loose enough to mo
 
 15\.
 
-Zehira works in the port's old record house, where news arrives by ship and leaves by printed newspaper. She copies the words cleanly, sometimes adding a small drawing - a curling wave, a spring of bougainvillea - so each page feels touched by a human hand. When reading letters from abroad, she notices the flourishes people use — the extra loops in someone's handwriting, the dramatic choice of words — and smiles to herself.
-Sometimes Zehira wonders if the way she folds beauty into a page will ever truly be seen. The crowd loves the "Breaking News" and the loud pictures, but she wants each issue to carry something poetic, something that leaves the reader lighter than before.
+You can see Ilsa at the morning market, chatting with vendors while efficiently buying vegetables for her mother, then later helping a cousin fix a chair, then rushing to prepare food for an evening morna gathering. Always moving, always in the middle of something – but somehow without frazzled energy that others get. she kept positive energy with a smile and a warm encouragement. When plans change – a ferry delay, a sudden rainstorm – she doesn’t panic. She takes a breath, adjust her basket, and simply says “We’ll sort it out”. People trust her to keep the mood, to carry the group through small storms.
+Some may whisper that her cheerfulness is too practiced, her apologies too quick. But Ilsa sees it differently — to her, it’s a genuine intention to help people work things out together, even if it means tucking away a bit of her own frustration.
 
-"You're doing good!" Say Ilsa.
+“You really do a good job!” Says Ilsa.
+
+16\.
+
+Zehira works in the port’s old record house, where news arrives by ship and leaves by printed newspaper. She copies the words cleanly, sometimes adding a small drawing – a curling wave, a spring of bougainvillea – so each page feels touched by a human hand. When reading letters from abroad, she notices the flourishes people use — the extra loops in someone’s handwriting, the dramatic choice of words — and smiles to herself. 
+
+Sometimes Zehira wonders if the way she folds beauty into a page will ever truly be seen. The crowd loves the “Breaking News” and the loud pictures, but she wants each issue to carry something poetic, something that leaves the reader lighter than before.
+
+"Ink can carry weight or warmth" Says Zwhira.
+
+17\.
+
+Melany likes her table by the window, where the light falls over her page without shadow. Her satchel is plain, but her notebooks are not — one bound in yellow cloth stitched with silver moons, another filled with pressed leaves she has named in neat handwriting. She reads travelogues from decades past, following strangers’ journeys across deserts and seas, marking the margins with tiny sketches of the places she’s never been. She rarely talks about herself, but when she does, it’s never small talk; she’ll tell you about a lighthouse in another country, or how a certain flower only blooms when the moon is high.
+
+“Some days, I live here. Some days, I live wherever the book takes me,” Melany says.
+
+18\.
+
+Margarida has a way of turning chance into gain: a room in her aunt’s house quietly let to a traveler, a stack of mangoes sold before they grew too soft, a share in a friend’s fishing trip paid in silver. She is quick to spot simple ways to earn, but her nature is light — she doesn’t overthink, and she rarely measures a moment by what more she can take from it.Margarida drifts easily through shifting tides — a picnic that moves from the beach to the hills, a meeting that starts three hours late, and she only laughs, finding a new spot to sit. 
+
+Born into comfort, she believes value is a matter of choosing well, not surviving — which is why she sometimes misses how hard others have to row before they can even see the shore.
+
+“The tide brings what it brings — I just take what fits in my hand.” Says Margarida.
+
+19\.
+
+Joao grew up in a big house with high walls, his windows always catching the morning sea breeze. At high school, he was the bright one everyone liked to sit next to, his notebooks always neat, his smile quick, he had friends everywhere, though the kind of closeness that comes from romance never found him then. Now, he lives in big city, enjoy afternoon at neat café, the gleam of a well-kept apartment, and evening tasting food plated as carefully as painting. His skin glows, his clothes fit, he believes life should be lived with care.
+
+He is grateful for the comforts his family’s fortune allows, though he knows luck is never complete. Somewhere beyond the horizon, he still hopes to meet someone who will see him as he is — someone for whom he will never have to pretend.
+
+20\.
+
+Miao is not from the island but she walks the streets like she’s been here for years. She is the stranger who askes the fisherman about the knots in his net, or who complimented the way a dressmaker’s stitches curved like waves. She doesn’t give everyone full attention; when she does, it’s deliberate gaze and it stays with them. Children are drawn to her. Sometimes they gather around in a small circle, and Miao begins to tell them stories. Her stories have no end. The most captivating thing is not only what she says, but how she says it. 
+
+In one moment, she is a melancholy poet, hair falling carelessly over his brow, shirt sleeves rolled to the elbow. The next, she is a woman of fierce loves and hatreds, her words sharp as the sea wind. And then, she is a wise elder, her tone patient, as if time moves differently in her presence.
+
+21\.
+
+Adarlino talks calm and slow, listening with the kind of patience that makes people feel their words have weight. He likes to make new friends, and is often the one to gather a group for an outing, lifting the mood until the air feels easy. He isn’t the loudest joke-maker, but when he does speak, it’s with a quick wit that lands and lingers. Girls like being around him, and he likes their company too; sometimes he says yes before he knows what he feels, and it leaves him unsure how to handle the space between friendship and something more.
+
+“I don’t really get her, but when she comes this way, I want to be closer.” Says Adarlino.
 
 
+22\.
 
+Nelida gives her heart without weighing it on a scale. You can be rich or broke, steady as stone or restless as wind. She’ll walk beside you if you know the way, or match your step if you’re still choosing the road. When the night city glows like a hundred candles in a chapel, she can follow you into a fine restaurant where the sound of wine glasses meets the hum of soft music. When the sun scorches the streets until even the birds fall silent, she’ll sit with you at a roadside stall, steam curling from a single plate you share, her smile making it taste like the best table in the city.
 
+“You’re the cutest tough guy in the world,” Nelida says, as if it’s the most obvious thing.
 
+23\.
+
+Kaline is hardworking, yet strategic — the kind of woman who can sense who will open the next door for her and makes sure she’s standing there when it does. She pursues her desires without apology, neither shrinking from ambition nor waiting for permission, and she does not waste her time on the weight of other people’s opinions. She is also generous to herself – a fine dress here, a sweet drink there – never denying small pleasures in the same of some far-off reward.
+
+“Those brave enough enjoy the first” she says
+
+24\.
+
+Arlindo would be the kind of man whose presence is carved into the landscape-like the jagged cliffs or the relentless winds. He’s the one who runs towards the fire when everyone else hesitates. In his mind, there’s no other way to live: you endure, you resist, or you fall. That’s the code he’s written into his body, muscle by muscle. But in Arlindo’s quest to be unbreakable, he often breaks others. He doesn’t know how to slow down, how to soften. He may ignore other’s deep needs, even his own, in pursuit of what he sees as “duty”. Sometimes he risks becoming isolated, admired from afar but rarely understood up close.
+
+“Fear is a luxury a real man can’t afford.” Says Arlindo.
 
 
 
